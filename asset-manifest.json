@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AirBnb-Clone/static/css/main.22cc392c.css",
+    "main.js": "/AirBnb-Clone/static/js/main.7f08a42f.js",
+    "static/js/787.ef34336b.chunk.js": "/AirBnb-Clone/static/js/787.ef34336b.chunk.js",
+    "static/media/photogrid.png": "/AirBnb-Clone/static/media/photogrid.a2d7fce7cdc1304f6aea.png",
+    "static/media/katie-zaferes.png": "/AirBnb-Clone/static/media/katie-zaferes.5d736ac3dc01f817ff4d.png",
+    "static/media/wedding-photography.png": "/AirBnb-Clone/static/media/wedding-photography.8496ea1b864a11f4a73f.png",
+    "static/media/mountain-bike.png": "/AirBnb-Clone/static/media/mountain-bike.1d6c42623736969f4ff3.png",
+    "static/media/bnb.png": "/AirBnb-Clone/static/media/bnb.cd0810058f72e920d9d7.png",
+    "index.html": "/AirBnb-Clone/index.html",
+    "main.22cc392c.css.map": "/AirBnb-Clone/static/css/main.22cc392c.css.map",
+    "main.7f08a42f.js.map": "/AirBnb-Clone/static/js/main.7f08a42f.js.map",
+    "787.ef34336b.chunk.js.map": "/AirBnb-Clone/static/js/787.ef34336b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cc392c.css",
+    "static/js/main.7f08a42f.js"
+  ]
+}
